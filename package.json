@@ -1,0 +1,33 @@
+{
+  "name": "memdb",
+  "description": "LevelUp + MemDown",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/juliangruber/memdb.git"
+  },
+  "homepage": "https://github.com/juliangruber/memdb",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "dependencies": {
+    "memdown": "~0.2.1",
+    "levelup": "~0.12.0"
+  },
+  "devDependencies": {
+    "tape": "~1.0.4"
+  },
+  "keywords": [
+    "levelup",
+    "memdown",
+    "leveldb",
+    "level"
+  ],
+  "author": {
+    "name": "Julian Gruber",
+    "email": "mail@juliangruber.com",
+    "url": "http://juliangruber.com"
+  },
+  "license": "MIT"
+}
