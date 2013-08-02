@@ -4,6 +4,10 @@
 [LevelUp](https://npmjs.org/package/levelup) +
 [MemDown](https://npmjs.org/package/memdown).
 
+[![build status](https://secure.travis-ci.org/juliangruber/memdb.png)](http://travis-ci.org/juliangruber/memdb)
+
+[![testling badge](https://ci.testling.com/juliangruber/memdb.png)](https://ci.testling.com/juliangruber/memdb)
+
 ## Usage
 
 ```js
