@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "memdown": "~0.5.1",
-    "levelup": "~0.17.0"
+    "levelup": "~0.18.1"
   },
   "devDependencies": {
     "tape": "~1.0.4"
