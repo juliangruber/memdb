@@ -12,8 +12,8 @@
     "test": "make test"
   },
   "dependencies": {
-    "memdown": "~0.5.1",
-    "levelup": "~0.18.1"
+    "memdown": "~0.8.0",
+    "levelup": "~0.18.3"
   },
   "devDependencies": {
     "tape": "~1.0.4"
