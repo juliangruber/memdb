@@ -11,6 +11,6 @@ function MemDB (opts, fn) {
   if (typeof opts == 'string') opts = {};
   opts = opts || {};
   opts.db = function (l) { return new memdown(l) };
-  return levelup('mem', opts, fn);
+  return levelup('', opts, fn);
 }
 
