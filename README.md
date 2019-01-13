@@ -2,7 +2,7 @@
 # MemDB
 
 [LevelUp](https://npmjs.org/package/levelup) +
-[MemDown](https://npmjs.org/package/memdown).
+[MemDown](https://npmjs.org/package/memdown). Superseded by [level-mem](https://github.com/Level/mem).
 
 [![build status](https://secure.travis-ci.org/juliangruber/memdb.png)](http://travis-ci.org/juliangruber/memdb)
 
